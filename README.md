@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Amit kumar
 
-<!--
-**AmitAnant01/AmitAnant01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A passionate Machine Learning Aspirant from India
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Machine learning
+- 📫 How to reach me:amitanant5852@gmail.com
+- 🛠 My Portfolio:https://amitanant.netlify.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/anantamit320))
+
+### Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
