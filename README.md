@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Machine learning, Deep learning (Tensorflow,Keras, CNN, RNN, ANN, etc...), Natural Language Processing
 - 👨‍💻 All of my Projects are available at https://github.com/AmitAnant01?tab=repositories
 - 📫 How to reach me:amitanant5852@gmail.com
-- 🛠 My Portfolio:https://amitanant.netlify.app/
+- 🛠 My Portfolio:[(https://bit.ly/01anantamit)]
 
 
 ### Connect with me:
