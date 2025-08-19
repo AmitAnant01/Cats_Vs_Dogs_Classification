@@ -1,8 +1,14 @@
-### Hi there 👋  
 
 ![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 # Hi 👋, I'm Amit kumar
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&center=true&vCenter=true&width=1000&height=60&lines=Python;SQL;Power+BI;Data+Analysis;Machine+Learning;Deep+Learning;Natural+Language+Processing"
+    alt="Typing SVG"
+  />
+</div>
+
 ## A passionate Machine Learning Aspirant from India, eager to turn data into actionable insights.
 
 - 🌱 I’m currently learning Machine learning, Deep learning (Tensorflow,Keras, CNN, RNN, ANN, etc...), Natural Language Processing
