@@ -4,10 +4,9 @@
 # Hi 👋, I'm Amit kumar
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=1000&center=true&vCenter=true&repeat=true&width=1200&height=60&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Data+Analysis+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Natural+Language+Processing)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analysis+%7C+Machine+Learning+%7C+Deep+Learning;Natural+Language+Processing)
 
 </div>
-
 ## A passionate Machine Learning Aspirant from India, eager to turn data into actionable insights.
 
 - 🌱 I’m currently learning Machine learning, Deep learning (Tensorflow,Keras, CNN, RNN, ANN, etc...), Natural Language Processing
