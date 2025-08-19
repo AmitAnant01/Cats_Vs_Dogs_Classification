@@ -1,4 +1,4 @@
-<img src="https://github.com/AmitAnant01/AmitAnant01/blob/main/welcome.gif.gif" width="100%" />
+<img src="[https://github.com/AmitAnant01/AmitAnant01/blob/main/welcome.gif.gif]" width="100%" />
 
 # Hi 👋, I'm Amit kumar
 ## A passionate Machine Learning Aspirant from India, eager to turn data into actionable insights.
