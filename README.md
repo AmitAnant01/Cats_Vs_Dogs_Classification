@@ -4,10 +4,14 @@
 # Hi 👋, I'm Amit kumar
 <div align="center">
 
+<div align="center">
+
+  <!-- Typing animation heading all skills in one line -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&center=true&vCenter=true&width=1000&height=60&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analysis+%7C+Machine+Learning+%7C+Deep+Learning;Natural+Language+Processing"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=1000&center=true&vCenter=true&width=1200&height=60&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Data+Analysis+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Natural+Language+Processing"
     alt="Typing SVG"
   />
+
 </div>
 
 ## A passionate Machine Learning Aspirant from India, eager to turn data into actionable insights.
