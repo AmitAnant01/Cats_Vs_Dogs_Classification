@@ -4,13 +4,7 @@
 # Hi 👋, I'm Amit kumar
 <div align="center">
 
-<div align="center">
-
-  <!-- Typing animation heading all skills in one line -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=1000&center=true&vCenter=true&width=1200&height=60&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Data+Analysis+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Natural+Language+Processing"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=1000&center=true&vCenter=true&repeat=true&width=1200&height=60&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Data+Analysis+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Natural+Language+Processing" />
 
 </div>
 
