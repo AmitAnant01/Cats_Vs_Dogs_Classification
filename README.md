@@ -45,6 +45,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitAnant01&layout=compact&theme=radical" alt="Amit's Top Languages" />
 </p>
 
+### 💡 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## Visitor Count
 
 <p align="center">
