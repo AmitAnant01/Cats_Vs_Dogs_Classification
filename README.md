@@ -3,8 +3,9 @@
 
 # Hi 👋, I'm Amit kumar
 <div align="center">
+
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&center=true&vCenter=true&width=1000&height=60&lines=Python;SQL;Power+BI;Data+Analysis;Machine+Learning;Deep+Learning;Natural+Language+Processing"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&center=true&vCenter=true&width=1000&height=60&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analysis+%7C+Machine+Learning+%7C+Deep+Learning;Natural+Language+Processing"
     alt="Typing SVG"
   />
 </div>
