@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analysis+%7C+Machine+Learning+%7C+Deep+Learning;Natural+Language+Processing)
 
 </div>
-## A passionate Machine Learning Aspirant from India, eager to turn data into actionable insights.
+A passionate Machine Learning Aspirant from India, eager to turn data into actionable insights.
 
 - 🌱 I’m currently learning Machine learning, Deep learning (Tensorflow,Keras, CNN, RNN, ANN, etc...), Natural Language Processing
 - 👨‍💻 All of my Projects are available at https://github.com/AmitAnant01?tab=repositories
