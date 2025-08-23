@@ -1,7 +1,9 @@
 
 ![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
-# Hi 👋, I'm Amit kumar
+![Profile views](https://komarev.com/ghpvc/?username=AmitAnant01&color=blue&style=flat&label=Profile%20Views)
+
+# Hi 👋, I'm Amit kumar.
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analysis+%7C+Machine+Learning+%7C+Deep+Learning;Natural+Language+Processing)
