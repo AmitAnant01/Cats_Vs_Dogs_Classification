@@ -28,7 +28,3 @@ The dataset is preprocessed, trained, and tested to achieve high accuracy using 
 - NumPy, Pandas, Matplotlib
 
 - Google Colab / Jupyter Notebook
-
-📧 amitanant5852@gmail.com
-
-🔗 GitHub Profile
